@@ -1,0 +1,25 @@
+_repo: Pusztai-talalkozas-Patak-banya_64906
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Winkler, Elemér
+    gutenberg_agent_id: '53092'
+    url: http://www.gutenberg.org/2009/agents/53092
+creator:
+  author:
+    agent_name: Baksay, Sándor
+    gutenberg_agent_id: '53091'
+    url: http://www.gutenberg.org/2009/agents/53091
+description: ''
+gutenberg_issued: '2021-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64906'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pusztai találkozás; Patak banya
+url: http://www.gutenberg.org/ebooks/64906
