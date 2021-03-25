@@ -5,12 +5,17 @@ contributor:
     agent_name: Winkler, Elemér
     gutenberg_agent_id: '53092'
     url: http://www.gutenberg.org/2009/agents/53092
+covers:
+- cover_type: archival
+  image_path: 64906-h/images/cover.jpg
 creator:
   author:
     agent_name: Baksay, Sándor
     gutenberg_agent_id: '53091'
     url: http://www.gutenberg.org/2009/agents/53091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64906#Pusztai-talalkozas-Patak-banya
 gutenberg_issued: '2021-03-23'
 gutenberg_type: Text
 identifiers:
